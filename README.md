@@ -26,7 +26,7 @@ this project was created to complete the PAM midterm exam
 Clone project with use git clone
 
 ```bash
-   https://github.com/alghiffari10/Quiz-app.git
+   https://github.com/alghiffari10/UTS-app.git
 ```
     
 ## Authors
